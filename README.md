@@ -6,9 +6,7 @@
 - 👀 I’m interested in Application Development.
 - 🌱 I’m currently pursuing master's in Computer Science
 - 💞️ I’m looking to collaborate on Application Development
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ## 🔧 Tech Stack
 Here are some of the languages and tools I love working with:
@@ -20,10 +18,10 @@ Here are some of the languages and tools I love working with:
 - **Tools:** Git, Docker, VS Code, IntelliJ IDEA
 
 ## 📣 Connect with Me
-- 🌐 [Portfolio](YourPortfolioLink)
-- 📧 [Email](mailto:your-email@example.com)
-- 🐦 [Twitter](YourTwitterLink)
-- 🧑‍💻 [LinkedIn](YourLinkedInLink)
+- 🌐 [Portfolio](https://github.com/ByteBelleCodes/Beauti_Kumari)
+- 📧 [Email](https://github.com/ByteBelleCodes/Beauti_Kumari)
+- 🐦 [Twitter](https://github.com/ByteBelleCodes/Beauti_Kumari)
+- 🧑‍💻 [LinkedIn](https://github.com/ByteBelleCodes/Beauti_Kumari)
 
 Thanks for stopping by! 🚀
 

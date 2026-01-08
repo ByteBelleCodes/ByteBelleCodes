@@ -40,16 +40,45 @@ I am a results-driven Software Engineer with **5+ years of experience** building
 ---
 
 ## 📊 Featured Projects
-
 ### 🔬 Machine Learning & AI Research
-* **Multimodal Deepfake Detection (GRE I & II):** Graduate research identifying manipulated media using CNNs, LSTMs, and signal processing (FFT, MFCCs) across image, audio, and video signals.
-* **Predicting Business Success:** Developed ANN, RNN, and CNN architectures to analyze 150,000+ Yelp records, utilizing PCA and dropout optimization for high-performance forecasting.
-* **AI-Powered UX Redesign:** Integrated OpenAI API for dynamic content adaptation and personalized layouts based on usability studies and UX research.
+
+* **[Multimodal Deepfake Detection](https://github.com/ByteBelleCodes)**: Graduate research identifying manipulated media using spatial-temporal cues across image, audio, and video signals.
+    * **Implementation**: Developed CNN + LSTM hybrid models to capture spatial inconsistencies in frames alongside temporal distortions in audio.
+    * **Data Pipeline**: Processed high-volume datasets (FaceForensics++, DFDC) using frame extraction, face alignment, and audio spectrograms (FFT/MFCCs).
+    * **Explainability**: Applied Grad-CAM and attention maps to visualize model decision boundaries and ensure robustness against adversarial bias.
+
+
+* **[Predicting Business Success](https://github.com/ByteBelleCodes)**: Developed and evaluated neural network architectures to forecast business outcomes using a dataset of 150,000+ Yelp records.
+    * **Architecture**: Built and compared ANN, RNN, and CNN models to identify the most effective predictor for large-scale sequential data.
+    * **Optimization**: Implemented dropout, early stopping, and dimensionality reduction (PCA) to prevent overfitting and improve model interpretability.
+    * **Results**: Visualized feature distributions and performance metrics (F1-score, accuracy) to validate model reliability.
+
+* **[AI-Powered UX Redesign](https://github.com/ByteBelleCodes)**: Integrated OpenAI API for dynamic content adaptation and personalized layouts based on usability studies.
+    * **UX Research**: Conducted interviews and surveys to identify pain points, translating qualitative findings into UI/UX improvements.
+
+---
 
 ### 💻 Software Engineering & Systems
-* **All-in-One Travel Booking Platform:** Full-stack Angular/Node.js application integrating third-party APIs for real-time pricing and availability of flights and hotels.
-* **Enterprise Data Exchange Platform:** Architected a secure Java-based interface for automated data exchange between DXC and Swiss Re using FTP and Spring Boot.
-* **Graph Layout Algorithms:** Implemented and benchmarked Tutte, Kamada-Kawai, and Force-Directed algorithms, analyzing time-complexity and visual quality across varying node sizes.
+
+* **🐾 [JHS Pet Help Center System (PHCS)](https://github.com/BeautiKumari25/jhs-pet-help-center)**: A full-stack solution for the **Jacksonville Humane Society** to centralize fragmented case data.
+    * **Automation**: Engineered a "staging area" for multi-source data (voicemail/WaitWhile) to allow staff preview/edit before final ingestion.
+    * **Security**: Built a role-based access control (RBAC) system with JWT to distinguish between admin and staff permissions.
+    * **AI Integration**: Developed collaboratively using **GitHub Copilot** and **Microsoft Copilot** for scaffolding and logic validation.
+
+* **[Enterprise Data Exchange Platform](https://github.com/ByteBelleCodes)**: Designed a secure production-grade interface for DXC Technology to manage data flow with Swiss Re.
+    * **Back-end**: Built scalable Java services and optimized RESTful APIs using Spring Boot and JDK 11 to improve system data consistency.
+    * **DevOps**: Implemented CI/CD pipelines using Maven, Git, and AWS to automate network lifecycle management and reduce operational errors.
+    * **Security**: Followed SDLC best practices and integrated Spring Security to protect sensitive enterprise data exchange.
+
+
+* **[All-in-One Travel Booking Platform](https://github.com/ByteBelleCodes)**: A modular full-stack application integrating multiple third-party travel services.
+    * **API Integration**: Developed backend RESTful APIs to consume external providers for real-time flight, hotel, and car rental data.
+    * **Front-end**: Built a responsive interface using Angular and managed complex database operations with SQL.
+    * **Architecture**: Focused on a modular design pattern to allow for easy scaling and third-party provider expansion.
+
+* **[Graph Layout Algorithms](https://github.com/ByteBelleCodes)**: Implementation and benchmarking of complex graph drawing algorithms.
+    * **Algorithms**: Coded Tutte, Kamada-Kawai, and Force-Directed algorithms using Python and NetworkX.
+    * **Analysis**: Benchmarked time-complexity and generated visual quality plots to evaluate how layouts scale with increasing node density.
 
 ---
 

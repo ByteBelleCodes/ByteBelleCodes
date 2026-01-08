@@ -60,7 +60,7 @@ I am a results-driven Software Engineer with **5+ years of experience** building
 
 ### 💻 Software Engineering & Systems
 
-* **🐾 [JHS Pet Help Center System (PHCS)](https://github.com/BeautiKumari25/jhs-pet-help-center)**: A full-stack solution for the **Jacksonville Humane Society** to centralize fragmented case data.
+* **🐾 [JHS Pet Help Center System (PHCS)](https://github.com/ByteBelleCodes/Jacksonville-Humane-Society-Pet-Help-Services)**: A full-stack solution for the **Jacksonville Humane Society** to centralize fragmented case data.
     * **Automation**: Engineered a "staging area" for multi-source data (voicemail/WaitWhile) to allow staff preview/edit before final ingestion.
     * **Security**: Built a role-based access control (RBAC) system with JWT to distinguish between admin and staff permissions.
     * **AI Integration**: Developed collaboratively using **GitHub Copilot** and **Microsoft Copilot** for scaffolding and logic validation.
